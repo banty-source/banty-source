@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding Avatar" />
+</div>
 
 ###
 
@@ -27,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
@@ -44,6 +48,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/banty-source/banty-source/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/banty-source/banty-source/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
